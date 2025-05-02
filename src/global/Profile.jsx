@@ -29,7 +29,7 @@ function Profile() {
             </p>
             <div className="profile-btn">
               <div className="btn1">
-                <Link tel="+9664634842">
+                <Link tel="">
                   <i className="fa-solid fa-phone-volume"></i> Book A Call
                 </Link>
               </div>
@@ -47,7 +47,7 @@ function Profile() {
               <Link to="#"><i class="fa-brands fa-facebook"></i></Link>
               <Link to="https://www.linkedin.com/in/dhruvika-kakadiya-09127528b/"><i class="fa-brands fa-linkedin"></i></Link>
              <Link to="https://github.com/dhruvika75"> <i class="fa-brands fa-github"></i></Link>
-             <Link to="https://wa.me/9664634842"> <i class="fa-brands fa-whatsapp"></i></Link>
+             <Link to=""> <i class="fa-brands fa-whatsapp"></i></Link>
               </div>
           </div>
         </div>

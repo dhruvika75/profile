@@ -53,11 +53,7 @@ const FaqList = ({ faqs }) => {
 
 
 const faqs = [
-  {
-    title: 'Project 1: Portfolio Website',
-   
-    link: 'https://github.com/yourusername/portfolio'
-  },
+
   {
     title: 'Project 2: Hotel management',
    
@@ -66,7 +62,7 @@ const faqs = [
   {
     title: 'Project 3: Health Care',
    
-    link: 'https://github.com/yourusername/task-manager'
+    link: ''
   },
 ];
 
