@@ -1,0 +1,41 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+a{
+text-decoration: none;
+}
+li{
+  list-style: none;
+}
+.navbar{
+  border-radius: 20px;
+  background: #F0F2F5;
+margin: 10px 0px 10px 0px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+#navbarSupportedContent{
+  display: flex;
+  justify-content: end;
+}
+.lets-talk{
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 50px;
+
+}
+.lets-talk:hover{
+  background-color:transparent;
+  border: solid 1px black;
+  font-weight: 700;
+  font-size: 15px;
+  color:black;
+  border-radius: 50px;
+
+}
+
+
+
